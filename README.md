@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maximokisbye
-- 👀 I’m interested in working as a Full Stack developer.
+- 👀 I’m interested in working as a SRE/DevOps Engineer.
 - 📫 How to reach me maximokisbye@gmail.com
 
 <!---
