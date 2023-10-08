@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maximokisbye
-- 👀 I’m interested in working as a SysAdmin/DevOps/SRE Engineer.
+- 👀 I’m interested in working as a Software Developer.
 - 📫 How to reach me maximokisbye@gmail.com
 
 <!---
